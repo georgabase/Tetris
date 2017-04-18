@@ -1,0 +1,25 @@
+Initialize engine version: 4.6.3f1 (4753d8b6ef2b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     2981 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Hussam\Documents\Unity\Tetris\Build\Tetris_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Hussam\Documents\Unity\Tetris\Build\Tetris_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Hussam\Documents\Unity\Tetris\Build\Tetris_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Hussam\Documents\Unity\Tetris\Build\Tetris_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Hussam\Documents\Unity\Tetris\Build\Tetris_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Hussam\Documents\Unity\Tetris\Build\Tetris_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.080 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Hussam\Documents\Unity\Tetris\Build\Tetris_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.630621 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 290.
+Total: 1.336337 ms (FindLiveObjects: 0.023609 ms CreateObjectMapping: 0.017635 ms MarkObjects: 0.150473 ms  DeleteObjects: 0.033280 ms)
+
